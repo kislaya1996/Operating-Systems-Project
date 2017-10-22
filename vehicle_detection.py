@@ -23,5 +23,5 @@ while True:
     
     if cv2.waitKey(33) == 27:
         break
-    time.sleep(0.5)
+    time.sleep(0.2)
 cv2.destroyAllWindows()
